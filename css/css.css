@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(205, 174, 235);
+}
+.sizing{
+    border: 5px rgb(155, 43, 155);
+    height: 200px;
+    font-size: 10px;
+}
+
+.using-rem{
+    font-size: 2rem;
+}
+.using-em{
+    font-size: 2em;
+}
+.using-viewport{
+background-color: powderblue;
+width: 40vw;
+height: 40vh;
+}
+.using-percent{
+
+}
